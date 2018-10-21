@@ -19,7 +19,7 @@ namespace CodeStoriesBingImageSearch
         // double-check this value against the Bing search endpoint in your Azure dashboard.
         const string uriBase = "https://api.cognitive.microsoft.com/bing/v7.0/images/search";
 
-        const string searchTerm = "tropical ocean";
+        const string searchTerm = "cognitive services";
 
         // A struct to return image search results seperately from headers
         struct SearchResult
